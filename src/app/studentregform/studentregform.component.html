@@ -1,0 +1,43 @@
+<div class="jumbotron">
+    <div class="table table-bordered bg-dark text:danger" >
+        <form [formGroup] ="form" (ngSubmit)="register()">
+            <div>
+                <label>Student name</label>
+                <input type="text" placeholder="enter name"
+                formControlName="student_name"/>
+            </div>
+            <div>
+                <label>Student Password</label>
+                <input type="text" placeholder="enter password"
+                formControlName="student_password"/>
+            </div>
+            <div>
+                <label>Student email</label>
+                <input type="text" placeholder="enter id"
+                formControlName="student_email"/>
+            </div>
+            <div>
+                <label>Student age</label>
+                <input type="text" placeholder="enter age"
+                formControlName="student_age"/>
+            </div>
+            <!-- <div>
+                <label>Sare you graduate</label>
+                <input type="checkbox"
+                formControlName="student_isgraduate"/>
+            </div> -->
+            <div>
+                <label>Student address</label>
+                <input type="text" formControlName="student_address"/>
+                    <!-- <option *ngFor="" [value]="b"> -->
+         </div>
+            <div>
+                &nbsp;&nbsp;&nbsp;
+                <button type="submit" class="btn btn-success">register</button> &nbsp;&nbsp;&nbsp;
+                <button type="reset" class="btn btn-danger">clear all</button>
+            </div>
+        </form>
+    </div>
+    
+
+</div>

@@ -1,0 +1,116 @@
+{
+  "students": [
+    {
+      "student_name": "ankitt",
+      "student_email": "ank@gmail.com",
+      "student_age": "23",
+      "student_isgraduate": "",
+      "student_branch": "ct",
+      "id": 1
+    },
+    {
+      "student_name": "mayur",
+      "student_email": "mayur@gmail.com",
+      "student_age": "26",
+      "student_isgraduate": true,
+      "student_branch": "mechanical",
+      "id": 2
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 3
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 4
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 5
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 6
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 7
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 8
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 9
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 10
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 11
+    },
+    {
+      "student_name": "sssssssssss",
+      "student_email": "dqwc",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 12
+    },
+    {
+      "student_name": "amkit",
+      "student_email": "popopoppo",
+      "student_age": "22",
+      "student_isgraduate": true,
+      "student_branch": "ct",
+      "id": 13
+    },
+    {
+      "student_name": "rahul",
+      "student_password": "12345",
+      "student_email": "r@gmail.com",
+      "student_age": "33",
+      "student_address": "nagpur",
+      "id": 14
+    }
+  ]
+}

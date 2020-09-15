@@ -1,0 +1,26 @@
+<div class="jumbotron bt bt-primary">
+<table class="table "  class="btn btn-primary" colspan="6">
+  
+    <thead>
+        <tr>
+            <th>student name</th>
+            <th>student password</th>
+            <th>student email</th>
+            <th>student age</th>
+            
+            <th>student address</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor ="let s of student">
+            <td>{{s.student_name}}</td>
+            <td>{{s.student_password}}</td>
+            <td>{{s.student_email}}</td>
+            <td>{{s.student_age}}</td>
+            
+            <td>{{s.student_address}}</td>
+        </tr>
+    </tbody>
+    
+        </table>
+    </div>
